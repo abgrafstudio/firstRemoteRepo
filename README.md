@@ -1,1 +1,1 @@
-# firstRemoteRepo
+# paragon za zakupy
