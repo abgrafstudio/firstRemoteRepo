@@ -1,0 +1,4 @@
+Chleb	3,50
+jaja	8,00
+masło	7,00
+mięso   38,00
